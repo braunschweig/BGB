@@ -1,4 +1,4 @@
 # BGB
 BGB Schaubilder
 
-(BGB AT: Vertrag)[Vertrag.html]
+[BGB AT: Vertrag](Vertrag.html)
