@@ -6,4 +6,7 @@ BGB Schaubilder
 [BGB AT: Abstraktionsprinzip](BGB-AT_Abstraktionsprinzip.html) \
 [BGB AT: Willenserklärung](BGB-AT_Willenserklärung.html) \
 [BGB AT: Vertrag](BGB-AT_Vertrag.html) \
+[BGB AT: Geschäftsfähigkeit](BGB-AT_Geschäftsfähigkeit.html) \
+[BGB AT: Vertretung](BGB-AT_Vertretung.html) \
+[BGB AT: Verjährung](BGB-AT_Verjährung.html) \
 [BGB AT: AGB](BGB-AT_AGB.html) 
