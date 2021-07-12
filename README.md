@@ -9,4 +9,4 @@ BGB Schaubilder
 [BGB AT: Geschäftsfähigkeit](BGB-AT_Geschäftsfähigkeit.html) \
 [BGB AT: Vertretung](BGB-AT_Vertretung.html) \
 [BGB AT: Verjährung](BGB-AT_Verjährung.html) \
-[BGB AT: AGB](BGB-AT_AGB.html) 
+[BGB SR-AT: AGB](BGB-ST-AT_AGB.html) 
